@@ -1,0 +1,9 @@
+SELF (metodo mais convencional usado no python) = O parâmetro é uma referência ao instância atual da classe e é usada para acessar variáveis que pertencem à classe. Não precisa ser nomeado, chame-o como quiser, mas tem que ser o primeiro parâmetro de qualquer função!;
+
+DIR() = retorna todas as propriedades e métodos do objeto especificado, sem os valores;
+
+VARS() = retornará um dicionário contendo o local tabela de símbolos;
+
+*Para iniciar uma classe, a palavra/nome da classe deve ser escrito com sua inicial em maiúsculo;
+
+DUNDER METHODS =  são os métodos que começam e terminam com sublinhados duplos '__'.
